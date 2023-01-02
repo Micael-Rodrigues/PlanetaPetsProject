@@ -53,7 +53,7 @@ Adoção é um ato de amor.
 
 ## Licença
 
-Planeta Pets is [GLP-3.0 licensed](./LICENSE.md).
+Planeta Pets is [GNU General Public License v3.0](./LICENSE.md).
 
 ## Acesso ao projeto
 
