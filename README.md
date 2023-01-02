@@ -40,11 +40,7 @@ Adoção é um ato de amor.
 
 :heavy_check_mark: `Funcionalidade 1:` Realizar cadastro dos usuários, podendo adotar ou cadastrar um animal para adoção.
 
-:heavy_check_mark: `Funcionalidade 2:` Configuração e personalização de perfil do úsuario.
-
-<!--:heavy_check_mark: `Funcionalidade 3:` Sistema de FeedBack por curtidas nos posts.
-
-:heavy_check_mark: `Funcionalidade 4:` Serviço de publicidade para empresas de viagens.-->
+:heavy_check_mark: `Funcionalidade 2:` Processo de adoção simples e seguro.
 
 
 ###
@@ -61,7 +57,7 @@ Planeta Pets is [GLP-3.0 licensed](./LICENSE.md).
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/idev-company/PlanetaPetsProject) ou [baixá-lo](https://github.com/idev-company/PlanetaPetsProject/archive/refs/heads/main.zip).
+Você pode [acessar o código fonte do projeto](https://github.com/micael-rodrigues/PlanetaPetsProject) ou [baixá-lo](https://github.com/micael-rodrigues/PlanetaPetsProject/archive/refs/heads/main.zip).
 
 
 ## Abrir e rodar o projeto
